@@ -117,7 +117,7 @@ _Approved screenshots, UI visuals, and diagrams will be added here._
 
 - **Demo video:** _Coming soon_
 - **Project presentation / documentation:** _Coming soon_
-- **LinkedIn:** _To be added_
+  
 
 ---
 
